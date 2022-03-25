@@ -1,0 +1,23 @@
+- day: Tirsdag
+  time: 15:30-16:30
+  language: Python
+  age: 2007/2008
+  free_seats: 1
+
+- day: Tirsdag
+  time: 16:45-17:45
+  language: Python
+  age: 2007/2008
+  free_seats: 1
+
+- day: Torsdag
+  time: 15:30-16:30
+  language: Python
+  age: 2008/2010
+  free_seats: 5
+
+- day: Torsdag
+  time: 16:45-17:45
+  language: Snap!
+  age: 2010/2011
+  free_seats: 1

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Games on Opfinderklubben.dk</title>
+    <link>http://localhost:1313/game/</link>
+    <description>Recent content in Games on Opfinderklubben.dk</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Tue, 22 Mar 2022 14:51:10 +0100</lastBuildDate><atom:link href="http://localhost:1313/game/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Burger Time (1982)</title>
+      <link>http://localhost:1313/game/burger-time/</link>
+      <pubDate>Tue, 22 Mar 2022 14:51:10 +0100</pubDate>
+      
+      <guid>http://localhost:1313/game/burger-time/</guid>
+      <description>    Navn Score     1. Simon 14850   2. Anton 12150   3. Eigil 8600   4. Marie 8600   5. Louis 2800    </description>
+    </item>
+    
+    <item>
+      <title>Amidar (1981)</title>
+      <link>http://localhost:1313/game/amidar/</link>
+      <pubDate>Tue, 22 Mar 2022 14:51:03 +0100</pubDate>
+      
+      <guid>http://localhost:1313/game/amidar/</guid>
+      <description>    Navn Score     1. PeterSK 79250   2. Agnethe 45090   3. Sixten 44540   4. Sylvester 40800   5. Hannah 40560    </description>
+    </item>
+    
+  </channel>
+</rss>

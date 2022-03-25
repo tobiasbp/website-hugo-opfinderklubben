@@ -1,0 +1,299 @@
+amidar:
+  name: Amidar
+  screenshot: /images/screenshots/amidar.gif
+  link: https://en.wikipedia.org/wiki/Amidar
+  info:
+    - title: År
+      value: 1981
+    - title: Udvikler
+      value: Konami
+    - title: Verdensrekord (Stern ROM)
+      value: "3.208.870"
+  scores:
+    - pos: 1
+      name: PeterSK
+      score: 79250
+    - pos: 2
+      name: Agnethe
+      score: 45090
+    - pos: 3
+      name: Sixten
+      score: 44540
+    - pos: 4
+      name: Sylvester
+      score: 40800
+    - pos: 5
+      name: Hannah
+      score: 40560
+
+burger-time:
+  name: Burger Time
+  screenshot: /images/screenshots/burger-time.png
+  link: https://en.wikipedia.org/wiki/BurgerTime
+  info:
+    - title: År
+      value: 1982
+    - title: Udvikler
+      value: Data East
+    - title: Verdensrekord
+      value: "11.512.500"
+  scores:
+    - pos: 1
+      name: Simon
+      score: 14850
+    - pos: 2
+      name: Anton
+      score: 12150
+    - pos: 3
+      name: Eigil
+      score: 8600
+    - pos: 4
+      name: Marie
+      score: 8600
+    - pos: 5
+      name: Louis
+      score: 2800
+
+donkey-kong:
+  name: Donkey Kong
+  screenshot: /images/screenshots/donkey-kong.png
+  link: https://en.wikipedia.org/wiki/Donkey_Kong_(video_game)
+  info:
+    - title: År
+      value: 1981
+    - title: Udvikler
+      value: Nintendo
+    - title: Verdensrekord
+      value: "1.272.800"
+  scores:
+    - pos: 1
+      name: Magnus
+      score: 15300
+    - pos: 2
+      name: Marie
+      score: 12100
+    - pos: 3
+      name: Jesper
+      score: 12000
+    - pos: 4
+      name: Ellen
+      score: 11400
+    - pos: 5
+      name: Elias
+      score: 10800
+
+frogger:
+  name: Frogger
+  screenshot: /images/screenshots/frogger.png
+  link: https://en.wikipedia.org/wiki/Frogger
+  info:
+    - title: År
+      value: 1981
+    - title: Udvikler
+      value: Konami
+    - title: Verdensrekord
+      value: "1.029.990"
+  scores:
+    - pos: 1
+      name: Sylvester
+      score: 11810
+    - pos: 2
+      name: Andreas
+      score: 11140
+    - pos: 3
+      name: Marie
+      score: 8110
+    - pos: 4
+      name: Simon
+      score: 6770
+    - pos: 5
+      name: Agnethe
+      score: 5330
+
+pac-man:
+  name: Pac-Man
+  screenshot: /images/screenshots/pac-man.png
+  link: https://en.wikipedia.org/wiki/Pac-Man
+  info:
+    - title: År
+      value: 1980
+    - title: Udvikler
+      value: Namco
+    - title: Verdensrekord
+      value: "3.333.360"
+  scores:
+    - pos: 1
+      name: PeterSK
+      score: 18890
+    - pos: 2
+      name: Simon
+      score: 18250
+    - pos: 3
+      name: Marie
+      score: 18240
+    - pos: 4
+      name: Svend
+      score: 6750
+    - pos: 5
+      name: Walther
+      score: 5290
+
+space-invaders:
+  name: Space Invaders
+  screenshot: /images/screenshots/space-invaders.gif
+  link: https://en.wikipedia.org/wiki/Space_Invaders
+  info:
+    - title: År
+      value: 1978
+    - title: Udvikler
+      value: Taito
+    - title: Verdensrekord
+      value: "218.870"
+  scores:
+    - pos: 1
+      name: Marie
+      score: 2370
+    - pos: 2
+      name: Simon
+      score: 2140
+    - pos: 3
+      name: Eigil
+      score: 1600
+    - pos: 4
+      name: Peder
+      score: 1340
+    - pos: 5
+      name: Toke
+      score: 990
+
+time-pilot:
+  name: Time Pilot
+  screenshot: /images/screenshots/time-pilot.png
+  link: https://en.wikipedia.org/wiki/Time_Pilot
+  info:
+    - title: År
+      value: 1982
+    - title: Udvikler
+      value: Konami
+    - title: Verdensrekord
+      value: "630.800"
+  scores:
+    - pos: 1
+      name: Marie
+      score: 132500
+    - pos: 2
+      name: Elias
+      score: 84600
+    - pos: 3
+      name: Ellen
+      score: 56900
+    - pos: 4
+      name: Louis
+      score: 12000
+    - pos: 5
+      name: "?"
+      score: "?"
+
+lucky-seven:
+  name: Lucky Seven
+  screenshot: /images/screenshots/lucky-seven-flyer.jpg
+  link: https://pinside.com/pinball/machine/lucky-seven
+  info:
+    - title: År
+      value: 1978
+    - title: Udvikler
+      value: Williams
+  scores:
+    - pos: 1
+      name: Pelle
+      score: 230450
+    - pos: 2
+      name: Anton
+      score: 219690
+    - pos: 3
+      name: Marie
+      score: 172220
+    - pos: 4
+      name: Simon
+      score: 171620
+    - pos: 5
+      name: Sejr
+      score: 157280
+
+comet:
+  name: Comet
+  screenshot: /images/screenshots/comet-flyer.jpg
+  link: https://pinside.com/pinball/machine/comet
+  info:
+    - title: År
+      value: 1985
+    - title: Udvikler
+      value: Williams
+  scores:
+    - pos: 1
+      name: "?"
+      score: "?"
+    - pos: 2
+      name: "?"
+      score: "?"
+    - pos: 3
+      name: "?"
+      score: "?"
+    - pos: 4
+      name: "?"
+      score: "?"
+    - pos: 5
+      name: "?"
+      score: "?"
+
+dispy-doodle:
+  name: Dispy Doodle
+  screenshot: /images/screenshots/dipsy-doodle-flyer.jpg
+  link: https://pinside.com/pinball/machine/dipsy-doodle
+  info:
+    - title: År
+      value: 1970
+    - title: Udvikler
+      value: Williams
+  scores:
+    - pos: 1
+      name: "?"
+      score: "?"
+    - pos: 2
+      name: "?"
+      score: "?"
+    - pos: 3
+      name: "?"
+      score: "?"
+    - pos: 4
+      name: "?"
+      score: "?"
+    - pos: 5
+      name: "?"
+      score: "?"
+
+flush:
+  name: Flush
+  screenshot: /images/screenshots/flush.jpg
+  link: https://pinside.com/pinball/machine/flush
+  info:
+    - title: År
+      value: 1976
+    - title: Udvikler
+      value: Maguinas Automaticas Computerizadas, S.A.
+  scores:
+    - pos: 1
+      name: Simon
+      score: 796700
+    - pos: 2
+      name: Pelle
+      score: 656900
+    - pos: 3
+      name: Anton
+      score: 611800
+    - pos: 4
+      name: Sofus
+      score: 476100
+    - pos: 5
+      name: Zakaria
+      score: 443700

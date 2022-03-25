@@ -1,0 +1,26 @@
+{{ $data := index $.Site.Data.classes}}
+
+<table class="collapse ba shadow-1 tl center">
+    <thead>
+        <tr class="ttu">
+            <th class="pv2 ph3">Dag</th>
+            <th class="pv2 ph3">Tid</th>
+            <th class="pv2 ph3">Sprog</th>
+            <th class="pv2 ph3">Fødeår</th>
+            <th class="pv2 ph3">Pladser</th>
+
+        </tr>
+    </thead>
+    <tbody>
+        {{ range $data }}
+        <tr class="striped--light-gray">
+            <td class="pv2 ph3">{{ .day }}</td>
+            <td class="pv2 ph3">{{ .time }}</td>
+            <td class="pv2 ph3">{{ .language }}</td>
+            <td class="pv2 ph3">{{ .age }}</td>
+            <td class="pv2 ph3">{{ .free_seats }}</td>
+
+        </tr>
+        {{ end }}
+    </tbody>
+</table>

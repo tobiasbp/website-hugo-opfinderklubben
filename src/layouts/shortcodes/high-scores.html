@@ -1,0 +1,43 @@
+{{ $image_rendering := "auto" }}
+{{ if $.Params.image_rendering }}
+{{ $image_rendering := $.Params.image_rendering }}
+{{- end -}}
+{{ if .IsNamedParams }}
+{{ $data := index $.Site.Data.high_scores $.Params.game }}
+<h2 class="mb0" id="{{ $.Params.game }}">{{ $data.name }}</h2>
+{{ if $data.info }}
+<ul class="fl w-100 list pl0 i f5 mt0">
+  {{ range $data.info }}
+  <li class="fl pr3">{{ .title }}: {{ .value }}</li>
+  {{ end }}
+</ul>
+{{- end -}}
+<div class="fl cf w-100 mb5" id="high-score">
+  <div class="fl w-100 w-50-ns">
+    <a class="link dim" style="background-image: url({{ $data.screenshot }});" href="{{ $data.link }}" target="_blank">
+      <img class="fl w-90 db ba bw3 b--black grow shadow-1" style="image-rendering: {{ $image_rendering }};"
+        src="{{ $data.screenshot }}" />
+    </a>
+  </div>
+  <div class="fl w-100 w-50-ns">
+    <table class="w-90 fr tl ba b--black-40 collapse bg-washed-blue center shadow-1">
+      <thead>
+        <tr class="ttu">
+          <th class="pv2 ph3"></th>
+          <th class="pv2 ph3">Navn</th>
+          <th class="pv2 ph3">Score</th>
+        </tr>
+      </thead>
+      <tbody>
+        {{ range $data.scores }}
+        <tr class="striped--light-gray  b--black-40">
+          <td class="pv2 ph3">{{ .pos }}.</td>
+          <td class="pv2 ph3">{{ .score }}</td>
+          <td class="pv2 ph3">{{ .name }}</td>
+        </tr>
+        {{ end }}
+      </tbody>
+    </table>
+  </div>
+</div>
+{{- end -}}

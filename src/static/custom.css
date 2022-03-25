@@ -1,0 +1,22 @@
+.logo-bg {
+    background-image: url(/images/opfinderklubben_logo_white_50px_rotated.svg);
+    background-repeat: no-repeat;
+    background-size: 4500px;
+    background-position-x: center;
+    background-position-y: 150px;
+}
+
+.bg-opfinderklubben-red {
+    background-color:#f00;
+}
+
+.nested-links a {
+    color: #f00;
+    text-decoration: none;
+    transition-duration: 0s;
+    transition-property: none;
+}
+
+.nested-links a:hover {
+    outline: 1px dotted currentColor;
+}

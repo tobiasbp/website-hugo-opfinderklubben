@@ -1,0 +1,38 @@
+[more]
+other = "Flere"
+
+[allTitle]
+other = "Alle {{.Title }}"
+
+[recentTitle]
+other = "Seneste {{.Title }}"
+
+[readMore]
+other = "Læs mere"
+
+[whatsInThis]
+other = "Inhold i {{ .Type }}"
+
+[related]
+other = "Relateret"
+
+[yourName]
+other = "Dit navn"
+
+[emailAddress]
+other = "E-mail"
+
+[message]
+other = "Besked"
+
+[emailRequiredNote]
+other = "En e-mail skal indtastes."
+
+[send]
+other = "Send"
+
+[taxonomyPageList]
+other = "Below you will find pages that utilize the taxonomy term “{{ .Title }}”"
+
+[pageTitle]
+other = "{{ .Name }} side"
