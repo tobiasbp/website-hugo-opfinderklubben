@@ -6,6 +6,7 @@
          url('../../fonts/sfintellivised-webfont.woff') format('woff');
     font-weight: normal;
     font-style: normal;
+    font-display: swap;
 }
 
 .titillum {
@@ -14,6 +15,4 @@
 nav, footer {
     letter-spacing:  .05em;
     font-family: 'sf_intellivised_regular', avenir next,avenir,sans-serif;
-
-    /* CSS goes here */
     }
