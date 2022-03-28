@@ -1,2 +1,3 @@
 .hugo_build.lock
-/src/public
+/src/public/*
+!/src/public/_redirects
