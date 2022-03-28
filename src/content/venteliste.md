@@ -12,6 +12,6 @@ intereseret i et af holdene, er det en god idé at skrive det som en kommentar.
 
 {{< classes >}}
 
-Indtast oplysninger i dette skema. Du behøver IKKE at være logget ind på din
+Indtast oplysninger i nedenstående skema. Du behøver IKKE at være logget ind på din
 eventuelle Google-konto.
 {{< venteliste >}}
