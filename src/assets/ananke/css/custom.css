@@ -1,9 +1,9 @@
 .logo-bg {
-    background-image: url(/images/opfinderklubben_logo_white_50px_rotated.svg);
+    background-image: url("/images/opfinderklubben_logo_white_50px_rotated.svg");
     background-repeat: no-repeat;
     background-size: 4500px;
     background-position-x: center;
-    background-position-y: 150px;
+    background-position-y: 100px;
 }
 
 .bg-opfinderklubben-red {
