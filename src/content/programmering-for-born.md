@@ -33,7 +33,7 @@ Der undervises som udgangspunkt i [Snap!](https://snap.berkeley.edu/)
 (Minder meget om [Scratch](https://scratch.mit.edu/)), som er et program med en visuel
 tilgang til det at programmere. Man programmerer ved at forbinde klodser med forskellig
 funktionalitet med hinanden. Vi begynder med at lære hvordan man opbygger og organiserer
-programmer. Derefter introduceres koordinatsystemet, at at bruge grader til at beskrive
+programmer. Derefter introduceres koordinatsystemet, at bruge grader til at beskrive
 en retninger og at bruge tilfældige tal til at skabe uforudsigelighed. Fri leg og
 eksperimenter fører frem til egne projekter.
 
@@ -41,7 +41,7 @@ eksperimenter fører frem til egne projekter.
 De øvede/ældre hold holder lærer traditionel tekst-baseret programmering
 med sproget [Python](https://www.python.org/). Når vi laver spil, bruger vi biblioteket
 [Arcade](https://api.arcade.academy). Når vi skriver tekstbaserede programmer, bruger
-vi tid [replit](https://replit.com/), så eleverne nemt kan arbejde videre med
+vi tit [replit](https://replit.com/), så eleverne nemt kan arbejde videre med
 tingene hjemme. Ofte løser vi opgaver på [Codewars](https://www.codewars.com/)
 
 
@@ -54,8 +54,8 @@ f.eks iPad er ikke velegnede til at programmere på.
 
 
 ## Pris
-Undervisningen på hold koster DKK 100,- pr. gang. Når man starter på et hold, betaler man
-for de første otte gange (prøvetid). Hvis man derefter ønsker at fortsætte, betales samlet
-for resten af sæsonen. Når sæsonen er slut, refunderes et beløb svarende til den undersvisning
-der ikke måtte være blevet afholdt pga. underviserens sygdom eller lignende. Der refunderes
-ikke penge i forbindelse med elevers fravær.
+Undervisningen på hold koster DKK 100,- pr. gang. Når man starter på et hold, betaler
+man for de første otte gange (prøvetid). Hvis man derefter ønsker at fortsætte, betales
+der samlet for resten af sæsonen. Når sæsonen er slut, refunderes et beløb svarende til
+den undersvisning der ikke måtte være blevet afholdt pga. underviserens sygdom eller
+lignende. Der refunderes ikke penge i forbindelse med elevers fravær.
