@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Titillium+Web:wght@200;600&display=swap');
+
+@font-face {
+    font-family: 'sf_intellivised_regular';
+    src: url('../../fonts/sfintellivised-webfont.woff2') format('woff2'),
+         url('../../fonts/sfintellivised-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Titillium+Web:wght@200&display=swap');
+
+xxxx {
+    letter-spacing:  .05em;
+    font-family: 'Titillium Web', avenir next,avenir,sans-serif;
+    }
+
+.titillum {
+    font-family: 'Titillium Web', sans-serif;
+}
+nav, footer {
+    letter-spacing:  .05em;
+    font-family: 'sf_intellivised_regular', avenir next,avenir,sans-serif;
+
+    /* CSS goes here */
+    }
