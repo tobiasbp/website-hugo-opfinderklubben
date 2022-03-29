@@ -27,7 +27,7 @@ eleverne på holdet er. Det er ikke et krav at have samme alder.
 ## Programmeringssprog
 
 ### Snap!
-{{< figure src="/images/photos/code_snap_01.jpg" class="shadow-1" >}}
+{{< figure src="/images/photos/code_snap_01.jpg" title="Klodsprogrammering med Snap!" class="mv3" >}}
 
 Der undervises som udgangspunkt i [Snap!](https://snap.berkeley.edu/)
 (Minder meget om [Scratch](https://scratch.mit.edu/)), som er et program med en visuel
@@ -38,6 +38,8 @@ en retninger og at bruge tilfældige tal til at skabe uforudsigelighed. Fri leg 
 eksperimenter fører frem til egne projekter.
 
 ### Python
+{{< figure src="/images/photos/code_python_01.jpg" title="Tekstprogrammering med Python." class="mv3" >}}
+
 De øvede/ældre hold holder lærer traditionel tekst-baseret programmering
 med sproget [Python](https://www.python.org/). Når vi laver spil, bruger vi biblioteket
 [Arcade](https://api.arcade.academy). Når vi skriver tekstbaserede programmer, bruger
