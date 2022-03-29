@@ -5,7 +5,7 @@ title: Kontakt
 #featured_image: /images/young_girls_in_front_of_laptop_01.jpg
 #omit_header_text: true
 #type: page
-menu: main
+#menu: main
 ---
 
 Hvis du har spørgsmål, kan du sende en besked til Opfinderklubben ved udfylde felterne herunder.

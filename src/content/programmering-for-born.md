@@ -7,11 +7,12 @@ description: "Ugentlig undervisning med maksimalt 7 elever pr. hold."
 #featured_image: ''
 #omit_header_text: false
 menu: main
+weight: 10
 ---
-Opfinderklubben tilbyder undervisning i programmering for børn. Der er maksimalt syv
-elever på et hold. Undervisningen varer 60 minutter, og afholdes en gang om ugen.
-Året er delt op i en forårs- og efterårs-sæson. Der er sæson-start efter hhv.
-sommer- og juleferie. Der er 20 ganges undervisning pr. sæson.
+Opfinderklubben har siden 2013 tilbudt undervisning i programmering for børn og unger.
+Der er maksimalt syv elever på et hold. Undervisningen varer 60 minutter, og afholdes
+en gang om ugen. Året er delt op i en forårs- og efterårs-sæson. Der er sæson-start
+efter hhv. sommer- og juleferie. Der er 20 ganges undervisning pr. sæson.
 
 Undervisning foregår i [Sølvgade 30, København K](https://goo.gl/maps/DUPtJCxwHj6chKGm6).
 

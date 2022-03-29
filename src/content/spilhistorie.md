@@ -1,6 +1,7 @@
 ---
 title: Spilhistorie
 menu: main
+weight: 50
 ---
 
 En samling af videoer om nogle af de vigtigste helt tidlige computerspil. Brug dem gerne

@@ -5,6 +5,7 @@ title: Klubhuset
 #omit_header_text: false
 #type: page
 menu: main
+weight: 30
 ---
 Opfinderklubben holder til i kælderen til højre i
 [Sølvgade 30, København K](https://goo.gl/maps/DUPtJCxwHj6chKGm6).

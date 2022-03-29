@@ -5,6 +5,7 @@ title: High scores
 #omit_header_text: false
 #type: page
 menu: main
+weight: 40
 ---
 I Opfinderklubbens [klubhus]({{< ref "/klubhuset" >}} "Klubhuset") findes en
 samling arkade- og flippermaskiner. Her på siden holder vi styr på medlemmernes
