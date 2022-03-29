@@ -4,9 +4,9 @@ menu: main
 weight: 50
 ---
 
-En samling af videoer om nogle af de vigtigste helt tidlige computerspil. Brug dem gerne
-som inspiration når du laver dine egne spil. Måske kan du lave en opdateret version af
-en af spillene eller bruge en af deres mange gode idéer?
+En samling af videoer der viser nogle af de vigtigste, helt tidlige, computerspil.
+Brug dem gerne som inspiration når du laver dine egne spil. Måske kan du lave
+en opdateret version af en af spillene eller bruge en af deres mange gode idéer?
 
 Spillene på siden er fra 1962 til 1982. Det ældste er øverst, og det yngste er nederst.
 
