@@ -8,7 +8,13 @@
 {{ if $data.info }}
 <ul class="fl w-100 list pl0 i f5 mt0">
   {{ range $data.info }}
-  <li class="fl pr3">{{ .title }}: {{ .value }}</li>
+  <li class="fl pr3">
+    {{ if in .value "http" }}
+    Link: <a class="link dim" href="{{ .value }}" target="_blank">{{ .title }}</a>
+    {{- else -}}
+    {{ .title }}: {{ .value }}
+    {{- end -}}
+  </li>
   {{ end }}
 </ul>
 {{- end -}}

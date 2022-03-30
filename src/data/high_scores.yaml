@@ -37,6 +37,8 @@ burger-time:
       value: Data East
     - title: Verdensrekord
       value: "11.512.500"
+    - title: Guide
+      value: https://strategywiki.org/wiki/BurgerTime/Walkthrough
   scores:
     - pos: 1
       name: Simon
@@ -65,6 +67,8 @@ donkey-kong:
       value: Nintendo
     - title: Verdensrekord
       value: "1.272.800"
+    - title: Guide
+      value: https://www.classicgaming.cc/classics/donkey-kong/play-guide
   scores:
     - pos: 1
       name: Magnus
@@ -121,6 +125,8 @@ pac-man:
       value: Namco
     - title: Verdensrekord
       value: "3.333.360"
+    - title: Guide
+      value: https://www.classicgaming.cc/classics/pac-man/play-guide
   scores:
     - pos: 1
       name: PeterSK
@@ -149,6 +155,8 @@ space-invaders:
       value: Taito
     - title: Verdensrekord
       value: "218.870"
+    - title: Guide
+      value: https://www.classicgaming.cc/classics/space-invaders/play-guide
   scores:
     - pos: 1
       name: Marie
