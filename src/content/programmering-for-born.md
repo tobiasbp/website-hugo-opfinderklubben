@@ -8,6 +8,12 @@ description: "Ugentlig undervisning med maksimalt 7 elever pr. hold."
 #omit_header_text: false
 menu: main
 weight: 10
+aliases:
+    - /workshops
+    - /workshops/hack-dit-legetoj
+    - /workshops/tandborsterobotter
+    - /workshops/byg-din-egen-synthesizer
+    - /workshops/programmering-med-scratch
 ---
 Opfinderklubben har siden 2013 tilbudt undervisning i programmering for børn og unge.
 Der er maksimalt syv elever på et hold. Undervisningen varer 60 minutter, og afholdes

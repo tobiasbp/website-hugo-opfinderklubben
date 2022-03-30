@@ -3,6 +3,8 @@ title: "Venteliste"
 date: 2022-03-23T13:58:15+01:00
 menu: main
 weight: 20
+aliases:
+    - /programmering-for-born/venteliste
 ---
 Hvis du er interesseret i en plads på et programmeringshold, skal du skrive
 dit barn på ventelisten. Læs om undervisningen [her]({{< ref "/programmering-for-born" >}}).
