@@ -157,6 +157,8 @@ space-invaders:
       value: "218.870"
     - title: Guide
       value: https://www.classicgaming.cc/classics/space-invaders/play-guide
+    - title: Demo (Death row)
+      value: https://www.youtube.com/watch?v=8av5dPQ40N0
   scores:
     - pos: 1
       name: Marie

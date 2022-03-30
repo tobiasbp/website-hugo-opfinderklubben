@@ -15,7 +15,7 @@ så man altid ved hvem klubmesteren er.
 
 {{< figure src="/images/photos/ok_arcade_02.jpg" title="Spillehallen." class="mv5" >}}
 
-{{< figure src="/images/photos/ok_empty_class_room.jpg" title="Klasselokalet." class="mv5" >}}
+{{< figure src="/images/photos/ok_empty_class_room.jpg" title="Undervisningslokalet." class="mv5" >}}
 
 {{< figure src="/images/photos/game_amidar_played_02.jpg" title="Rekordforsøg." class="mv5" >}}
 

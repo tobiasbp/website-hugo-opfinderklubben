@@ -10,7 +10,7 @@ en opdateret version af en af spillene eller bruge en af deres mange gode idéer
 
 Spillene på siden er fra 1962 til 1982. Det ældste er øverst, og det yngste er nederst.
 
-Hvis du får lyst til at kigge på mere spil-historisk-materiale, kan du se mere i serien
+Hvis du får lyst til at kigge på mere spil-historisk materiale, kan du se mere i serien
 [_The video game years_](https://www.youtube.com/playlist?list=PL4T1sDYpnBr7W_UNP8Q9PyTS5iowRZ6KG)
 fra som har at afsnit for hvert år fra 1977 til 1989. På  Wikipedia kan du finde en
 [tidslinie for arkade-spillemaskiner](https://en.wikipedia.org/wiki/Timeline_of_arcade_video_game_history).
@@ -76,8 +76,8 @@ Spillemaskinen Space Invaders tog verden med storm i 1978. Det var første gang 
 kunne skrive sit navn ind når man fik en high score. Spillet er lavet af det japanske
 firma Taito. Skærmen er sort/hvid, men der er installeret et halvgennemsigtigt spejl,
 der får det til at se ud som om billedet fra skærmen svæver over en planet.
-Rumuhyrene har fået en anden farve en spilleren ved at der er klæbet farvet
-cellofan (Tynd plastik) hen over skærmen de steder hvor rumuhyrene er.
+Rumuhyrene har fået en anden farve en spilleren, ved at der er klæbet farvet
+cellofan (tynd plastik) hen over skærmen, de steder hvor rumuhyrene er.
 
 {{< youtube id="DJMr36hLY38" title="Space Invaders" >}}
 
@@ -90,14 +90,14 @@ vant til nu.
 
 ## 1980: Missile Command
 Forsvar dine byer mod missiler. Skyd dem ned med laserkanoner. Du flytter dit sigtekorn
-med en track ball (En kugle). Spillet var kontroversielt fordi, det mindede mange om
+med en track ball (en kugle). Spillet var kontroversielt fordi det mindede mange om,
 at man var midt i den kolde krig hvor man (i vesten) frygtede sovjetiske missilangreb.
 Spillet er lavet af amerikanske Atari.
 
 {{< youtube id="ChMvEKkrGRU" title="Missile Command" >}}
 
 ## 1980: Pac-Man
-Måske det mest kendte videospil nogensinde: Pac-Man fra 1980. Lavet at japanske Namco.
+Måske det mest kendte videospil nogensinde: Pac-Man fra 1980. Lavet af japanske Namco.
 
 {{< youtube id="W5tw14p_PLA" title="Pac-Man" >}}
 
@@ -109,9 +109,9 @@ og legetøj. Kæmper med Pac-Man om at være retrospillenes konge.
 {{< youtube id="tJagEKVJ8x4" title="Donkey Kong" >}}
 
 ## 1981: Frogger
-Endnu en af de helt store klassikere. Japanske Sega udgav Frogger 1981. Styr frøen
+Endnu en af de helt store klassikere. Japanske Sega udgav Frogger i 1981. Styr frøen
 over vejen og floden for at komme tilbage til hjemmene øverst på skærmen. Spillet er
-et godt eksempel på en trend i de tidlige 1080’ere hvor spil skulle være ikke
+et godt eksempel på en trend i de tidlige 1980’ere hvor spil skulle være ikke
 voldelige og søde. Burger Time er et andet virkelig godt spil i genren.
 
 {{< youtube id="WNrz9_Fe-Us" title="Frogger" >}}
