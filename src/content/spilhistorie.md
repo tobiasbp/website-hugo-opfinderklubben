@@ -12,7 +12,7 @@ Spillene på siden er fra 1962 til 1982. Det ældste er øverst, og det yngste e
 
 Hvis du får lyst til at kigge på mere spil-historisk materiale, kan du se mere i serien
 [_The video game years_](https://www.youtube.com/playlist?list=PL4T1sDYpnBr7W_UNP8Q9PyTS5iowRZ6KG)
-fra som har at afsnit for hvert år fra 1977 til 1989. På  Wikipedia kan du finde en
+som har at afsnit for hvert år fra 1977 til 1989. På  Wikipedia kan du finde en
 [tidslinie for arkade-spillemaskiner](https://en.wikipedia.org/wiki/Timeline_of_arcade_video_game_history).
 
 ## 1962: Space War
@@ -48,7 +48,7 @@ Første gang man kunne spille computer spil i private hjem. Spillemaskinen Odyss
 fra 1972 lavet af amerikanske Magnavox. Her er to reklamefilm og klip fra et TV-program
 hvor en person fra Magnavox fortæller om hvordan Odyssey fungerer. Læg mærke til, at
 al grafikken stort set kommer fra gennemsigtige plastic-stykker man skal klæbe op
-på sin fjernsysskærm.
+på sin fjernsynsskærm.
 
 {{< youtube id="0MnRkPvIjKE" title="Odyssey" >}}
 
