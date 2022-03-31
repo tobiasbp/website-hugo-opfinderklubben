@@ -25,6 +25,9 @@ amidar:
     - pos: 5
       name: Hannah
       score: 40560
+    - pos: 6
+      name: Toke
+      score: 8260
 
 burger-time:
   name: Burger Time
@@ -241,14 +244,14 @@ comet:
       value: Williams
   scores:
     - pos: 1
-      name: "?"
-      score: "?"
+      name: "Leonora"
+      score: "1.832.720"
     - pos: 2
-      name: "?"
-      score: "?"
+      name: "Marie"
+      score: "1.699.660"
     - pos: 3
-      name: "?"
-      score: "?"
+      name: "Omar"
+      score: "1.234.980"
     - pos: 4
       name: "?"
       score: "?"
