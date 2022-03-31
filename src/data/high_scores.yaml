@@ -26,6 +26,12 @@ amidar:
       name: Hannah
       score: 40560
     - pos: 6
+      name: Marie
+      score: 39990
+    - pos: 7
+      name: Caroline
+      score: 10690
+    - pos: 8
       name: Toke
       score: 8260
 
