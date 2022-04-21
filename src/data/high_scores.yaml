@@ -29,9 +29,12 @@ amidar:
       name: Marie
       score: 39990
     - pos: 7
+      name: Viggo B.
+      score: 37600
+    - pos: 8
       name: Caroline
       score: 10690
-    - pos: 8
+    - pos: 9
       name: Toke
       score: 8260
 
@@ -259,11 +262,11 @@ comet:
       name: "Omar"
       score: "1.234.980"
     - pos: 4
-      name: "?"
-      score: "?"
+      name: "Viggo E."
+      score: "1.031.660"
     - pos: 5
-      name: "?"
-      score: "?"
+      name: "Viggo B."
+      score: "450.300"
 
 dispy-doodle:
   name: Dispy Doodle
