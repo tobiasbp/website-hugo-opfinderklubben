@@ -265,8 +265,11 @@ comet:
       name: "Viggo E."
       score: "1.031.660"
     - pos: 5
+      name: "CC"
+      score: "936.870"
+    - pos: 6
       name: "Viggo B."
-      score: "450.300"
+      score: "931.990"
 
 dispy-doodle:
   name: Dispy Doodle
