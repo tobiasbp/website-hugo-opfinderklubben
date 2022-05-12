@@ -265,11 +265,11 @@ comet:
       name: "Omar"
       score: "1.234.980"
     - pos: 4
+      name: "CC"
+      score: "1.091.390"
+    - pos: 5
       name: "Viggo E."
       score: "1.031.660"
-    - pos: 5
-      name: "CC"
-      score: "936.870"
     - pos: 6
       name: "Viggo B."
       score: "931.990"
