@@ -67,6 +67,4 @@ f.eks iPad, er ikke velegnede til at programmere på.
 ## Pris
 Undervisningen på hold koster DKK 100,- pr. gang. Når man starter på et hold, betaler
 man for de første otte gange (prøvetid). Hvis man derefter ønsker at fortsætte, betales
-der samlet for resten af sæsonen. Når sæsonen er slut, refunderes et beløb svarende til
-den undersvisning der ikke måtte være blevet afholdt pga. underviserens sygdom eller
-lignende. Der refunderes ikke penge i forbindelse med elevers fravær.
+der samlet for resten af sæsonen som er på 20 undervisningsgange. Der refunderes ikke penge i forbindelse med elevers fravær.
