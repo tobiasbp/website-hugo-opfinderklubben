@@ -11,35 +11,35 @@ amidar:
       value: "3.208.870"
   scores:
     - pos: 1
+      name: TBP
+      score: 123690
+    - pos: 2
       name: PeterSK
       score: 79250
-    - pos: 2
+    - pos: 3
       name: TheRiddler
       score: 54440
-    - pos: 3
+    - pos: 4
       name: Agnethe
       score: 45090
-    - pos: 4
+    - pos: 5
       name: Sixten
       score: 44540
-    - pos: 5
+    - pos: 6
       name: Sylvester
       score: 40800
-    - pos: 6
+    - pos: 7
       name: Hannah
       score: 40560
-    - pos: 7
+    - pos: 8
       name: Marie
       score: 39990
-    - pos: 8
+    - pos: 9
       name: Viggo B.
       score: 37600
-    - pos: 9
+    - pos: 10
       name: Lauritz
       score: 25100
-    - pos: 10
-      name: Caroline
-      score: 10690
 
 burger-time:
   name: Burger Time
