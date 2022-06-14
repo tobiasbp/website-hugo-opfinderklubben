@@ -17,23 +17,23 @@ amidar:
       name: PeterSK
       score: 79250
     - pos: 3
+      name: Marie
+      score: 67480
+    - pos: 4
       name: TheRiddler
       score: 54440
-    - pos: 4
+    - pos: 5
       name: Agnethe
       score: 45090
-    - pos: 5
+    - pos: 6
       name: Sixten
       score: 44540
-    - pos: 6
+    - pos: 7
       name: Sylvester
       score: 40800
-    - pos: 7
+    - pos: 8
       name: Hannah
       score: 40560
-    - pos: 8
-      name: Marie
-      score: 39990
     - pos: 9
       name: Viggo B.
       score: 37600
