@@ -89,15 +89,21 @@ donkey-kong:
       name: Magnus
       score: 15300
     - pos: 2
+      name: William
+      score: 14800
+    - pos: 3
+      name: Albert
+      score: 14700
+    - pos: 4
       name: Marie
       score: 12100
-    - pos: 3
+    - pos: 5
       name: Jesper
       score: 12000
-    - pos: 4
+    - pos: 6
       name: Ellen
       score: 11400
-    - pos: 5
+    - pos: 7
       name: Elias
       score: 10800
 
