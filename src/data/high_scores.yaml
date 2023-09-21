@@ -35,11 +35,11 @@ amidar:
       name: Hannah
       score: 40560
     - pos: 9
+      name: Lauritz
+      score: 38800
+    - pos: 10
       name: Viggo B.
       score: 37600
-    - pos: 10
-      name: Albert
-      score: 29380
 
 burger-time:
   name: Burger Time
