@@ -277,6 +277,9 @@ comet:
       name: "Viggo E."
       score: "1.031.660"
     - pos: 6
+      name: "Benny"
+      score: "1.008.130"
+    - pos: 7
       name: "Viggo B."
       score: "931.990"
 
