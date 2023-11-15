@@ -86,11 +86,11 @@ donkey-kong:
       value: https://www.classicgaming.cc/classics/donkey-kong/play-guide
   scores:
     - pos: 1
+      name: William
+      score: 16100
+    - pos: 2
       name: Magnus
       score: 15300
-    - pos: 2
-      name: William
-      score: 14800
     - pos: 3
       name: Albert
       score: 14300
