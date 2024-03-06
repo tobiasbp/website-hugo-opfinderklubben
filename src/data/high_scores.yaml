@@ -137,6 +137,12 @@ frogger:
     - pos: 5
       name: Agnethe
       score: 5330
+    - pos: 6
+      name: Marvin
+      score: 5310
+    - pos: 7
+      name: Albert
+      score: 3560
 
 pac-man:
   name: Pac-Man
