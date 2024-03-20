@@ -128,19 +128,22 @@ frogger:
     - pos: 2
       name: Andreas
       score: 11140
-    - pos: 3
+    - pos 3:
+      name: Albert
+      score: 8130
+    - pos: 4
       name: Marie
       score: 8110
-    - pos: 4
+    - pos: 5
       name: Simon
       score: 6770
-    - pos: 5
+    - pos: 6
       name: Agnethe
       score: 5330
-    - pos: 6
+    - pos: 7
       name: Marvin
       score: 5310
-    - pos: 7
+    - pos: 8
       name: Albert
       score: 3560
 
