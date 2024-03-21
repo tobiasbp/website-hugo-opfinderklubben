@@ -128,7 +128,7 @@ frogger:
     - pos: 2
       name: Andreas
       score: 11140
-    - pos 3:
+    - pos: 3
       name: Albert
       score: 8130
     - pos: 4
@@ -143,9 +143,6 @@ frogger:
     - pos: 7
       name: Marvin
       score: 5310
-    - pos: 8
-      name: Albert
-      score: 3560
 
 pac-man:
   name: Pac-Man
