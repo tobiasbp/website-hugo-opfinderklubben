@@ -277,11 +277,11 @@ comet:
       name: "Leonora"
       score: "1.832.720"
     - pos: 3
+      name: "Mads"
+      score: "1.788.950"
+    - pos: 4
       name: "Marie"
       score: "1.699.660"
-    - pos: 4
-      name: "Mads"
-      score: "1.410.780"
     - pos: 5
       name: "Omar"
       score: "1.234.980"
